@@ -1,2 +1,5 @@
 # hello-world
-Creating my first repository on GitHub
+
+Hi everyone ! 
+
+I'm doing this tutorial on GitHub because I'll be needing to use this plateform for a MOOC I signed up to on Getting and cleaning data
